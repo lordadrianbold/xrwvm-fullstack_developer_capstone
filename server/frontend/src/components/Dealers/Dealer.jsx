@@ -102,6 +102,9 @@ return(
         <h4  style={{color:"grey"}}>
             {dealer.city},{dealer.address}, Zip - {dealer.zip}, {dealer.state} 
         </h4>
+        <h4  style={{color:"blue"}}>
+            <a href={`/searchcars/${id}`}>SearchCars</a> 
+        </h4>
       </div>
       <div class="reviews_panel">
       {reviews.length === 0 && unreviewed === false ? (
