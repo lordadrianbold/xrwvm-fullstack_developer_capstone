@@ -1,5 +1,6 @@
-#Dealerships Review Portal - Fullstack Software Developer Capstone Project
-#Overview
+Dealerships Review Portal - Fullstack Software Developer Capstone Project
+
+Overview
 This project is the final capstone for the Fullstack Software Developer certification course. The goal of this project is to develop a web application for a national car dealership with branches across the United States, enabling users to view dealership information and leave reviews for each branch. This project leverages various technologies including Django, React, Node.js, MongoDB, Docker, and IBM Cloud.
 
 Project Background
