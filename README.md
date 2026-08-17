@@ -1,12 +1,12 @@
-Dealerships Review Portal - Fullstack Software Developer Capstone Project
+#Dealerships Review Portal - Fullstack Software Developer Capstone Project
 
-Overview
+##Overview
 This project is the final capstone for the Fullstack Software Developer certification course. The goal of this project is to develop a web application for a national car dealership with branches across the United States, enabling users to view dealership information and leave reviews for each branch. This project leverages various technologies including Django, React, Node.js, MongoDB, Docker, and IBM Cloud.
 
-Project Background
+##Project Background
 A market survey conducted by the car dealership company revealed a strong interest from customers in a centralized platform where they could view reviews of dealerships nationwide. The goal is to provide transparency and increase customer trust in the dealership network by enabling users to read reviews and submit their own.
 
-Key Features
+##Key Features
 Anonymous Users: View dealership details and reviews.
 Authorized Users: Log in, submit reviews, and view reviews for each dealership.
 Admin Users: Manage dealership information, including adding car makes, models, and other attributes.
