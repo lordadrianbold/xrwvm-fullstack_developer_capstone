@@ -52,7 +52,7 @@ Add new makes, models, and other attributes for dealerships.
 Installation Instructions
 Clone the repository:
 
-git clone [https://[github.com/cozmek-ai-f/xrwvm-fullstack_developer_capstone](https://github.com/cozmek-ai-f/xrwvm-fullstack_developer_capstone)
+
 cd Fullstack_Dev_Capstone_Project
 Set up virtual environment
 
